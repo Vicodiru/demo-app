@@ -77,7 +77,6 @@ body {
   color: var(--clr-neutral-hsl-700);
 }
 
-@media (min-width: 600px) {
   body {
     min-height: 100vh;
     display: grid;
